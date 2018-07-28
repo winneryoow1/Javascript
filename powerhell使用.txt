@@ -1,0 +1,15 @@
+1.console.log可以设置日志级别然后控制日志显示
+console.log=console.debug=debug
+2.shift+右键查看属性得到路径
+3.powershell命令行
+常用命令：dir、cd
+（cd f：进入F盘）
+创建文件：touch.gitignore
+查看文件：type test.txt
+切换到桌面：win+d
+创建文本文档 (.gitignore)：echo "内容“  >> .gitignore
+例：echo "hello world" >> .gitignore(写几次文本内就有几个"hello world")
+查看日期：date
+打开记事本/计算机等：（在指定路径下）cal/notepad
+指定时间关机：shutdown -s -t 1000
+清屏：clear

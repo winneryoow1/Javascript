@@ -1,0 +1,21 @@
+Markdown-Typora编辑
+ctrl+new开新窗口 
+vs里面(ctrl+shift+new)
+node.＼test.js直接写代码 (powershell)
+1.cd e: \work
+2.node a.js
+
+web前端开发：
+1.PC端--页面
+2.移动端--页面
+解决用户体验的问题
+学习：
+1.软件
+  （1）浏览器
+  （2）浏览器插件F12
+  （3）用来写代码的编辑器
+    Photoshop
+2.语言
+
+
+win+R运行框
